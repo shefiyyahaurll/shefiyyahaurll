@@ -1,4 +1,4 @@
-<center>#👋 Hi, I’m Shefiyyah Aurellia<center>
+<center># 👋 Hi, I’m Shefiyyah Aurellia<center>
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1000&color=B37A34&background=FF53EA00&random=false&width=435&lines=Show+Your+True+Colors)](https://git.io/typing-svg)
