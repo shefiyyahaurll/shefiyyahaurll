@@ -8,9 +8,8 @@
 </div>
 
 <h1 align="center">Language and Tools</h1><br>
-<center>
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python)](https://skillicons.dev)
-</center>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python)](https://skillicons.dev)
+
 
 > 👀 I’m interested in Machine learning and sofware development.
 > 🌱 I’m currently study in UIN Syarif Hidayatullah Jakarta
