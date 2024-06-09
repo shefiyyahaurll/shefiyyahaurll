@@ -7,9 +7,10 @@
   </a>
 </div>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1000&color=B37A34&background=FF53EA00&random=false&width=435&lines=Show+Your+True+Colors)](https://git.io/typing-svg)
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python)](https://skillicons.dev)
+<h1 align="center">Language and Tools</h1>
+<div style="text-align:center">
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python)](https://skillicons.dev)
+</div>
 
 > 👀 I’m interested in Machine learning and sofware development.
 > 🌱 I’m currently study in UIN Syarif Hidayatullah Jakarta
