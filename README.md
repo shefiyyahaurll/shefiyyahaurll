@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shefiyyahaurll
 - 👀 I’m interested in Machine learning and sofware development.
 - 🌱 I’m currently study in UIN Syarif Hidayatullah Jakarta
-- 💞️ I’m looking to collaborate on build Machine learning model
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/shefiyyah-aurellia/ or email shefiyyah@gmail.com
 
 
