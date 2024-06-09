@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E1616&background=25173300&multiline=true&random=false&width=435&lines=Show+Your+True+Colors)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @shefiyyahaurll
 - 👀 I’m interested in Machine learning and sofware development.
 - 🌱 I’m currently study in UIN Syarif Hidayatullah Jakarta
