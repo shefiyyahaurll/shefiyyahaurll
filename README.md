@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8E1616&background=25173300&multiline=true&random=false&width=435&lines=Show+Your+True+Colors)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=8E1616&background=25173300&multiline=true&random=false&width=200&height=111&lines=Show+Your+True+Colors)](https://git.io/typing-svg)
 
 - 👋 Hi, I’m @shefiyyahaurll
 - 👀 I’m interested in Machine learning and sofware development.
