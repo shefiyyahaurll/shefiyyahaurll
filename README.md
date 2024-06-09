@@ -3,6 +3,7 @@
 - 🌱 I’m currently study in UIN Syarif Hidayatullah Jakarta
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/shefiyyah-aurellia/ or email shefiyyah@gmail.com
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 shefiyyahaurll/shefiyyahaurll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
