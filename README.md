@@ -7,11 +7,10 @@
   </a>
 </div>
 
-<h1 align="center">Language and Tools</h1>
-
-<div style="text-align:center">
+<h1 align="center">Language and Tools</h1><br>
+<center>
   [![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python)](https://skillicons.dev)
-</div>
+</center>
 
 > 👀 I’m interested in Machine learning and sofware development.
 > 🌱 I’m currently study in UIN Syarif Hidayatullah Jakarta
