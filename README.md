@@ -6,7 +6,7 @@
 - 📫 How to reach me linkedin: https://www.linkedin.com/in/shefiyyah-aurellia/ or email shefiyyah@gmail.com
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shefiyyahaurll&layout=donut-vertical)](https://github.com/shefiyyahaurll/github-readme-stats)
-
+![s GitHub stats](https://github-readme-stats.vercel.app/api?username=shefiyyahaurll\&rank_icon=github)
 <!---
 shefiyyahaurll/shefiyyahaurll is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
