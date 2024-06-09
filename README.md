@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=1000&color=8E1616&background=25173300&multiline=true&random=false&width=200&height=111&lines=Show+Your+True+Colors)](https://git.io/typing-svg)
+[![Typing SVG]https://typograssy.deno.dev/api?text=Show%20Your%20true%20colors&l1=4d3f5f&l2=61425a&l3=989add&l4=c5dddd]
 
 - 👋 Hi, I’m @shefiyyahaurll
 - 👀 I’m interested in Machine learning and sofware development.
