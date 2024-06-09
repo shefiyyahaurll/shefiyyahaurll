@@ -1,4 +1,4 @@
-[![Typing SVG]https://typograssy.deno.dev/api?text=Show%20Your%20true%20colors&l1=4d3f5f&l2=61425a&l3=989add&l4=c5dddd]
+[![Typing SVG][https://typograssy.deno.dev/api?text=Show%20Your%20true%20colors&l1=4d3f5f&l2=61425a&l3=989add&l4=c5dddd]
 
 - 👋 Hi, I’m @shefiyyahaurll
 - 👀 I’m interested in Machine learning and sofware development.
