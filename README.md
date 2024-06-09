@@ -1,4 +1,4 @@
-![Typing SVG][https://typograssy.deno.dev/api?text=Show%20Your%20true%20colors&l1=4d3f5f&l2=61425a&l3=989add&l4=c5dddd]
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&pause=1000&color=B37A34&background=FF53EA00&random=false&width=435&lines=Show+Your+True+Colors)](https://git.io/typing-svg)
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python)](https://skillicons.dev)
