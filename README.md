@@ -11,9 +11,9 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python)](https://skillicons.dev)
 
 
-> 👀 I’m interested in Machine learning and sofware development.
-> 🌱 I’m currently study in UIN Syarif Hidayatullah Jakarta
-> 📫 How to reach me linkedin: https://www.linkedin.com/in/shefiyyah-aurellia/ or email shefiyyah@gmail.com
+> 👀 I’m interested in Machine learning and sofware development.<br>
+> 🌱 I’m currently study in UIN Syarif Hidayatullah Jakarta<br>
+> 📫 How to reach me linkedin: https://www.linkedin.com/in/shefiyyah-aurellia/ or email shefiyyah@gmail.com<br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shefiyyahaurll&layout=donut-vertical)](https://github.com/shefiyyahaurll/github-readme-stats)
 ![s GitHub stats](https://github-readme-stats.vercel.app/api?username=shefiyyahaurll\&rank_icon=github)
