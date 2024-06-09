@@ -1,7 +1,7 @@
 ![Typing SVG][https://typograssy.deno.dev/api?text=Show%20Your%20true%20colors&l1=4d3f5f&l2=61425a&l3=989add&l4=c5dddd]
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python)](https://skillicons.dev)
 - 👋 Hi, I’m @shefiyyahaurll
 - 👀 I’m interested in Machine learning and sofware development.
 - 🌱 I’m currently study in UIN Syarif Hidayatullah Jakarta
