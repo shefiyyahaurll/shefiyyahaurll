@@ -8,7 +8,7 @@
 </div>
 
 ## Language and Tools
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tensorflow,php,laravel,docker,python,mysql,java)](https://skillicons.dev)
 
 
 > 👀 I’m interested in Machine learning and sofware development.<br>
